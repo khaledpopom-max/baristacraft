@@ -1,0 +1,6 @@
+{
+  "name": "BaristaCraft",
+  "description": "Bilingual professional café barista recipes, training curriculum, and smart drink customizer in Arabic & English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

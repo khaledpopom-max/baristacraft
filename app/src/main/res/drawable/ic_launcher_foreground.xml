@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Steam Swirls -->
+    <path
+        android:strokeColor="#D4A373"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M46,38 C43,34 47,30 44,25" />
+    <path
+        android:strokeColor="#FAEDCD"
+        android:strokeWidth="2.8"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M54,36 C57,31 52,27 55,22" />
+    <path
+        android:strokeColor="#D4A373"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M62,38 C65,34 61,30 64,25" />
+
+    <!-- Cup Rim & Body -->
+    <path
+        android:fillColor="#FFF8F0"
+        android:pathData="M34,44 L37,64 C38,71 70,71 71,64 L74,44 Z" />
+
+    <!-- Coffee Crema Surface Inside Cup -->
+    <path
+        android:fillColor="#8C5331"
+        android:pathData="M34,44 C34,42 74,42 74,44 C74,46 34,46 34,44 Z" />
+
+    <!-- Latte Art Heart on Crema -->
+    <path
+        android:fillColor="#FFF8F0"
+        android:pathData="M54,50 C52,47 48,47 48,50 C48,53 54,56 54,56 C54,56 60,53 60,50 C60,47 56,47 54,50 Z" />
+
+    <!-- Cup Handle -->
+    <path
+        android:fillColor="#FAEDCD"
+        android:pathData="M73,48 C79,48 83,52 83,58 C83,63 79,66 71,66 L70,62 C75,62 78,60 78,58 C78,54 75,52 72,52 Z" />
+
+    <!-- Saucer Plate -->
+    <path
+        android:fillColor="#D4A373"
+        android:pathData="M28,74 C28,71 80,71 80,74 C80,76 28,76 28,74 Z" />
+    <path
+        android:fillColor="#FFF8F0"
+        android:pathData="M32,73 C32,71 76,71 76,73 C76,74.5 32,74.5 32,73 Z" />
+</vector>
